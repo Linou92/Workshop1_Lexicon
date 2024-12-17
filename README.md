@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workshop1_Lexicon
 Github Workshop 
 
@@ -55,3 +56,6 @@ Task 1:
    git commit -m "Adding files for being excluded"
 
    git push
+=======
+# Hello-World-
+>>>>>>> 4ad3151 (Initial commit)
