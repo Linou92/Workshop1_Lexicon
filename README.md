@@ -57,6 +57,36 @@ Task 1:
 
    git push
 
+Task 2 :
+1. cd ..
+
+   git clone https://github.com/Lexicon-Smaland/Hello-World.git
+
+2. cd Hello-World
+
+   git remote remove origin
+
+   git remote add origin https://github.com/Linou92/Workshop1_Lexicon.git
+
+3. echo This is my updated version. >> README.md
+
+4. git add .
+
+   git commit -m "Updated README with my changes"
+
+   git push -u origin main
+
+   (Had to fix some issues with merge conflicts)
+   
+  git status
+
+  git rebase --continue
+
+  git push origin main
+  
+   
+   
+   
 # Hello-World-
 
 # **Markdown Template Guide**
