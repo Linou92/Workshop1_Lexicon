@@ -104,7 +104,24 @@ Task 3:
    git pull origin main
 
    git push origin main
-  
+
+2. fork the project
+
+   git clone https://github.com/Linou92/my-second-project.git
+
+   cd my-second-project
+
+   git switch -c improvement
+
+   echo Hello from your classmate ! >> index.html
+
+   git add .
+
+   git commit -m "Adding text to index file"
+
+   git push origin improvement
+
+   Compare & Pull Request 
    
    
    
