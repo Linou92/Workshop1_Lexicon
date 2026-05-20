@@ -121,7 +121,17 @@ Task 3:
 
    git push origin improvement
 
-   Compare & Pull Request 
+   Compare & Pull Request
+
+3. git revert 858ceb7
+
+4. git tag v1.0
+
+   git push origin v1.0
+
+   git tag -a v1.1 -m "First release"
+
+   git push origin v1.1
    
    
    
