@@ -1,0 +1,2 @@
+Git practice notes 
+Learning commits and version control 
