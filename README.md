@@ -78,11 +78,32 @@ Task 2 :
 
    (Had to fix some issues with merge conflicts)
    
-  git status
+   git status
 
-  git rebase --continue
+   git rebase --continue
 
-  git push origin main
+   git push origin main
+
+Task 3:
+1. cd workshop1
+
+   git branch new-branch
+
+   git checkout new-branch
+
+   echo This is the new branch > newBranch.html
+
+   git add .
+
+   git commit -m "Add newBranch file"
+
+   git switch main
+
+   git merge new-branch
+
+   git pull origin main
+
+   git push origin main
   
    
    
