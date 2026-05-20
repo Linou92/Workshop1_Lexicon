@@ -14,13 +14,13 @@ Task 1:
    
    git commit -m "Initial commit"
 
-3. git remote add origin https://github.com/Linou92/Workshop1_Lexicon.git
+2. git remote add origin https://github.com/Linou92/Workshop1_Lexicon.git
    
    git branch -M main
    
    git push -u origin main
 
-5. echo Git practice notes > notes.txt
+3. echo Git practice notes > notes.txt
    
    echo Learning commits and version control >> notes.txt
    
@@ -36,4 +36,22 @@ Task 1:
    
    git commit -m "Update README with project description"
    
+   git push
+
+4. echo .env > .gitignore
+
+   echo build/ >> .gitignore
+
+   echo *.log >> .gitignore
+
+   echo dist/ >> .gitignore
+
+   echo node_modules/ >> .gitignore
+
+   echo target/ >> .gitignore
+
+   git add .gitignore
+
+   git commit -m "Adding files for being excluded"
+
    git push
