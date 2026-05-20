@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Workshop1_Lexicon
+
 Github Workshop 
 
 This repository is for Git and GitHub practice. 
@@ -57,10 +56,9 @@ Task 1:
    git commit -m "Adding files for being excluded"
 
    git push
-=======
+
 # Hello-World-
->>>>>>> 4ad3151 (Initial commit)
-=======
+
 # **Markdown Template Guide**
 
 ---
@@ -184,4 +182,6 @@ Markdown is a simple, flexible, and powerful language for creating documents and
 - *Italic Text:* `*Italic*`
 - `Inline Code:` `` `Code` ``
 - [Hyperlink Example](https://example.com)
->>>>>>> c673e1b (Update README.md)
+
+This is my updated version. 
+
